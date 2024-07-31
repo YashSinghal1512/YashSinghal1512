@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 
 
 ### 📈 Statistics
-- **GitHub Stats**: [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=prs&theme=radical)](https://github.com/your-username)
+- **GitHub Stats**: https://github.com/YashSinghal1512
 - **Top Languages**: [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)](https://github.com/your-username)
 - **GitHub Streak**: [![GitHub Streak](https://streak-stats.demolab.com/?user=your-username&theme=radical)](https://github.com/your-username)
 
