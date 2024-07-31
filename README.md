@@ -23,9 +23,7 @@ Here are some ideas to get you started:
 ### 📧 Contact
 - **Email**: [300yashsinghal@gmail.com](mailto:300yashsinghal@gmail.com)
 
-### 🛠️ Tech Stack
 
-### 🛠️ Tech Stack
 
 ### 🛠️ Tech Stack
 
@@ -33,9 +31,9 @@ Here are some ideas to get you started:
 
 
 ### 📈 Statistics
- [![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YashSinghal1512&show_icons=true&theme=radical)](https://github.com/YashSinghal1512)
+
    [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YashSinghal1512&layout=compact&theme=radical)](https://github.com/YashSinghal1512)
-   [![GitHub Streak](https://streak-stats.demolab.com/?user=YashSinghal1512&theme=radical)](https://github.com/YashSinghal1512)
+ 
 
 ### 🤝 Let's Connect
 - **Social Handles**:
