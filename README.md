@@ -1,5 +1,3 @@
-
-
 <!--
 **YashSinghal1512/YashSinghal1512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,12 +21,11 @@ Here are some ideas to get you started:
 - Enthusiastic about exploring new technologies and frameworks to create efficient solutions
 
 ### 📧 Contact
-- **Email**: 300yashsinghal@gmail.com
+- **Email**: [300yashsinghal@gmail.com](mailto:300yashsinghal@gmail.com)
 
 ### 🛠️ Tech Stack
 
-### 🛠️ Programming
-
+#### 🛠️ Programming
 - ![Java](https://img.shields.io/badge/-Java-red?logo=java&logoColor=white) 
 - ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
 - ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
@@ -38,16 +35,7 @@ Here are some ideas to get you started:
 - ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
 - ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
 
-### 📚 Coursework
-
-- ![DSA](https://img.shields.io/badge/-DSA-000000?logo=python&logoColor=white) (Data Structures and Algorithms)
-- ![OOPS](https://img.shields.io/badge/-OOPS-000000?logo=python&logoColor=white) (Object-Oriented Programming)
-- ![DBMS](https://img.shields.io/badge/-DBMS-000000?logo=python&logoColor=white) (Database Management Systems)
-- ![OS](https://img.shields.io/badge/-OS-000000?logo=python&logoColor=white) (Operating Systems)
-- ![Computer Networks](https://img.shields.io/badge/-Computer%20Networks-000000?logo=python&logoColor=white)
-
-### 🔧 Frameworks and Tools
-
+#### 🔧 Frameworks and Tools
 - ![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js&logoColor=white)
 - ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
 - ![NPM](https://img.shields.io/badge/-NPM-red?logo=npm&logoColor=white)
@@ -56,18 +44,12 @@ Here are some ideas to get you started:
 - ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)
 - ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
 - ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-                        |
-
-
-
 
 ### 📈 Statistics
-- **GitHub Stats**: https://github.com/YashSinghal1512
-- **Top Languages**: [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)](https://github.com/your-username)
-- **GitHub Streak**: [![GitHub Streak](https://streak-stats.demolab.com/?user=your-username&theme=radical)](https://github.com/your-username)
+- **GitHub Stats**: [![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YashSinghal1512&show_icons=true&theme=radical)](https://github.com/YashSinghal1512)
+- **Top Languages**: [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YashSinghal1512&layout=compact&theme=radical)](https://github.com/YashSinghal1512)
+- **GitHub Streak**: [![GitHub Streak](https://streak-stats.demolab.com/?user=YashSinghal1512&theme=radical)](https://github.com/YashSinghal1512)
 
 ### 🤝 Let's Connect
 - **Social Handles**:
-  - [LinkedIn]https://www.linkedin.com/in/yash-singhal-a8834a25a/
-
-
+  - [LinkedIn](https://www.linkedin.com/in/yash-singhal-a8834a25a/)
