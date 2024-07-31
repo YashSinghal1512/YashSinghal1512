@@ -19,9 +19,10 @@ Here are some ideas to get you started:
 - **Based in Uttar Pradesh, India**
 - Passionate **MERN Stack Developer** with a strong foundation in building scalable web applications
 - Enthusiastic about exploring new technologies and frameworks to create efficient solutions
+- You can reach me by email: [300yashsinghal@gmail.com](mailto:300yashsinghal@gmail.com)
 
-### 📧 Contact
-- **Email**: [300yashsinghal@gmail.com](mailto:300yashsinghal@gmail.com)
+
+
 
 
 
