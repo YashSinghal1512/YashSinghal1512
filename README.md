@@ -44,26 +44,33 @@ Here are some ideas to get you started:
  
 
 
-
 ## Let's Connect 🤝
 
 <table align="center">
   <thead align="center">
-    <tr>
-      <th>🌐 Social Handles</th>
+    <tr align="center">
+      <td align="center">💌 Social Handles</td>
+      <td align="center">🌐 Coding Handles</td>
     </tr>
   </thead>
+
   <tbody align="center">
-    <tr>
+    <tr align="center">
       <!-- Social Handles -->
-      <td>
+      <td align="center">
         <!-- LinkedIn -->
-        <a href="https://www.linkedin.com/in/yash-singhal-a8834a25a/" target="_blank">
-          <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-        </a>
+        <a href="https://www.linkedin.com/in/yash-singhal-a8834a25a/"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+        <!-- X -->
+        <a href="https://x.com/YashSingha1837"><img align="center" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="Twitter" /></a>
+      </td>
+      <!-- Coding Handles -->
+      <td align="center">
+        <!--Leetcode--> 
+        <a href="https://leetcode.com/u/300yashsinghal/"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode" /></a>
+        <!--Kaggle--> 
+        <a href="https://www.kaggle.com/yashsinghal1215"><img align="center" src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
       </td>
     </tr>
   </tbody>
 </table>
-
 
