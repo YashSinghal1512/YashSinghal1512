@@ -43,6 +43,26 @@ Here are some ideas to get you started:
    [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YashSinghal1512&layout=compact&theme=radical)](https://github.com/YashSinghal1512)
  
 
-### 🤝 Let's Connect
-- **Social Handles**:
-  - [LinkedIn](https://www.linkedin.com/in/yash-singhal-a8834a25a/)
+
+
+ ## Let's Connect 🤝
+
+<table align="center">
+  <thead align="center">
+    <tr align="center">
+      <td align="center">🌐Social Handles</td>
+      
+    </tr>
+  </thead>
+  <tbody align="center">
+    <tr align="center">
+      <!-- Social Handles -->
+      <td align="center">
+        <!-- LinkedIn -->
+        <a href="https://www.linkedin.com/in/yash-singhal-a8834a25a/"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+      </td>
+      
+    </tr>
+  </tbody>
+</table>
+
