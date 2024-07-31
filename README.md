@@ -27,16 +27,16 @@ Here are some ideas to get you started:
 
 ### 🛠️ Tech Stack
 
-| 👩‍💻 **Programming**            | 💡 **Machine Learning**           | 📊 **Data Science**                | 👁️ **Others**                      |
-|--------------------------------|-----------------------------------|-----------------------------------|------------------------------------|
-| ![Python](https://img.shields.io/badge/-Python-blue)        | ![Numpy](https://img.shields.io/badge/-Numpy-blue)           | ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-orange) | ![ChatGPT](https://img.shields.io/badge/-ChatGPT-lightgrey) |
-| ![R](https://img.shields.io/badge/-R-blue)                  | ![Pandas](https://img.shields.io/badge/-Pandas-blue)         | ![MySQL](https://img.shields.io/badge/-MySQL-blue)          | ![Shell Script](https://img.shields.io/badge/-Shell%20Script-lightgrey) |
+| 👩‍💻 **Programming**               | 💡 **Machine Learning**          | 📊 **Data Science**              | 👁️ **Others**                    |
+|-----------------------------------|----------------------------------|---------------------------------|----------------------------------|
+| ![Python](https://img.shields.io/badge/-Python-blue)          | ![Numpy](https://img.shields.io/badge/-Numpy-blue)           | ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-orange) | ![ChatGPT](https://img.shields.io/badge/-ChatGPT-lightgrey) |
+| ![R](https://img.shields.io/badge/-R-blue)                    | ![Pandas](https://img.shields.io/badge/-Pandas-blue)         | ![MySQL](https://img.shields.io/badge/-MySQL-blue)          | ![Shell Script](https://img.shields.io/badge/-Shell%20Script-lightgrey) |
 | ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) | ![Matplotlib](https://img.shields.io/badge/-Matplotlib-blue)  | ![SQLite](https://img.shields.io/badge/-SQLite-blue)        | ![Linux](https://img.shields.io/badge/-Linux-lightgrey)   |
 | ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-blue) | ![Scikit-Learn](https://img.shields.io/badge/-Scikit-Learn-blue) | ![OpenCV](https://img.shields.io/badge/-OpenCV-blue)        | ![R Studio](https://img.shields.io/badge/-R%20Studio-lightgrey) |
-|                                |                                   | ![Anaconda](https://img.shields.io/badge/-Anaconda-blue)      | ![GitHub](https://img.shields.io/badge/-GitHub-lightgrey)  |
-|                                |                                   |                                   | ![VSCode](https://img.shields.io/badge/-VSCode-lightgrey) |
-|                                |                                   |                                   | ![Framer](https://img.shields.io/badge/-Framer-lightgrey) |
-|                                |                                   |                                   | ![Unity](https://img.shields.io/badge/-Unity-lightgrey)   |
+|                                   |                                  | ![Anaconda](https://img.shields.io/badge/-Anaconda-blue)      | ![GitHub](https://img.shields.io/badge/-GitHub-lightgrey)  |
+|                                   |                                  |                                 | ![VSCode](https://img.shields.io/badge/-VSCode-lightgrey) |
+|                                   |                                  |                                 | ![Framer](https://img.shields.io/badge/-Framer-lightgrey) |
+|                                   |                                  |                                 | ![Unity](https://img.shields.io/badge/-Unity-lightgrey)   |
 
 
 
