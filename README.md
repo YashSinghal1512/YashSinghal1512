@@ -46,9 +46,9 @@ Here are some ideas to get you started:
 - ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
 ### 📈 Statistics
-- **GitHub Stats**: [![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YashSinghal1512&show_icons=true&theme=radical)](https://github.com/YashSinghal1512)
-- **Top Languages**: [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YashSinghal1512&layout=compact&theme=radical)](https://github.com/YashSinghal1512)
-- **GitHub Streak**: [![GitHub Streak](https://streak-stats.demolab.com/?user=YashSinghal1512&theme=radical)](https://github.com/YashSinghal1512)
+ [![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YashSinghal1512&show_icons=true&theme=radical)](https://github.com/YashSinghal1512)
+   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YashSinghal1512&layout=compact&theme=radical)](https://github.com/YashSinghal1512)
+   [![GitHub Streak](https://streak-stats.demolab.com/?user=YashSinghal1512&theme=radical)](https://github.com/YashSinghal1512)
 
 ### 🤝 Let's Connect
 - **Social Handles**:
