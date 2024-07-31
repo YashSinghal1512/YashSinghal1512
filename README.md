@@ -45,24 +45,25 @@ Here are some ideas to get you started:
 
 
 
- ## Let's Connect 🤝
+## Let's Connect 🤝
 
 <table align="center">
   <thead align="center">
-    <tr align="center">
-      <td align="center">🌐Social Handles</td>
-      
+    <tr>
+      <th>🌐 Social Handles</th>
     </tr>
   </thead>
   <tbody align="center">
-    <tr align="center">
+    <tr>
       <!-- Social Handles -->
-      <td align="center">
+      <td>
         <!-- LinkedIn -->
-        <a href="https://www.linkedin.com/in/yash-singhal-a8834a25a/"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+        <a href="https://www.linkedin.com/in/yash-singhal-a8834a25a/" target="_blank">
+          <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        </a>
       </td>
-      
     </tr>
   </tbody>
 </table>
+
 
