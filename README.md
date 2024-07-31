@@ -27,16 +27,14 @@ Here are some ideas to get you started:
 
 ### 🛠️ Tech Stack
 
-| 👩‍💻 **Programming**               | 💡 **Machine Learning**          | 📊 **Data Science**              | 👁️ **Others**                    |
-|-----------------------------------|----------------------------------|---------------------------------|----------------------------------|
-| ![Python](https://img.shields.io/badge/-Python-blue)          | ![Numpy](https://img.shields.io/badge/-Numpy-blue)           | ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-orange) | ![ChatGPT](https://img.shields.io/badge/-ChatGPT-lightgrey) |
-| ![R](https://img.shields.io/badge/-R-blue)                    | ![Pandas](https://img.shields.io/badge/-Pandas-blue)         | ![MySQL](https://img.shields.io/badge/-MySQL-blue)          | ![Shell Script](https://img.shields.io/badge/-Shell%20Script-lightgrey) |
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) | ![Matplotlib](https://img.shields.io/badge/-Matplotlib-blue)  | ![SQLite](https://img.shields.io/badge/-SQLite-blue)        | ![Linux](https://img.shields.io/badge/-Linux-lightgrey)   |
-| ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-blue) | ![Scikit-Learn](https://img.shields.io/badge/-Scikit-Learn-blue) | ![OpenCV](https://img.shields.io/badge/-OpenCV-blue)        | ![R Studio](https://img.shields.io/badge/-R%20Studio-lightgrey) |
-|                                   |                                  | ![Anaconda](https://img.shields.io/badge/-Anaconda-blue)      | ![GitHub](https://img.shields.io/badge/-GitHub-lightgrey)  |
-|                                   |                                  |                                 | ![VSCode](https://img.shields.io/badge/-VSCode-lightgrey) |
-|                                   |                                  |                                 | ![Framer](https://img.shields.io/badge/-Framer-lightgrey) |
-|                                   |                                  |                                 | ![Unity](https://img.shields.io/badge/-Unity-lightgrey)   |
+| ![Java](https://img.shields.io/badge/-Java-red?logo=java&logoColor=white) | ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white) | ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) | ![SQL](https://img.shields.io/badge/-SQL-003B57?logo=database&logoColor=white) |
+|-----------------------------------|-----------------------------------|-----------------------------------|----------------------------------|
+| ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white) | ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white) | ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) | ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white) |
+| ![DSA](https://img.shields.io/badge/-DSA-000000?logo=python&logoColor=white) | ![OOPS](https://img.shields.io/badge/-OOPS-000000?logo=python&logoColor=white) | ![DBMS](https://img.shields.io/badge/-DBMS-000000?logo=python&logoColor=white) | ![OS](https://img.shields.io/badge/-OS-000000?logo=python&logoColor=white) |
+| ![Computer Networks](https://img.shields.io/badge/-Computer%20Networks-000000?logo=python&logoColor=white) | ![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js&logoColor=white) | ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white) | ![NPM](https://img.shields.io/badge/-NPM-red?logo=npm&logoColor=white) |
+| ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) | ![Mongoose](https://img.shields.io/badge/-Mongoose-880000?logo=mongoose&logoColor=white) | ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white) | ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) |
+| ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) |                                   |                                   |                                  |
+
 
 
 
