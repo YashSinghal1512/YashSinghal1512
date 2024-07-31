@@ -12,7 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I'm Yash Singhal! 🙋‍♂️
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Yash Singhal</h1>
+<p align="center">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;MERN+Stack+Developer;Aspiring+Software+Engineer&center=true&width=500&height=50"></a>
+</p>
 
 ### 👨‍🎓 About Me
 - **Final Year B.Tech Student in Computer Science** at Vellore Institute of Technology, Vellore
