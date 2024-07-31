@@ -25,13 +25,7 @@ Here are some ideas to get you started:
 
 ### 🛠️ Tech Stack
 
-- ![Java](https://img.shields.io/badge/-Java-red?logo=java&logoColor=white) ,![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
-- ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
-- ![SQL](https://img.shields.io/badge/-SQL-003B57?logo=database&logoColor=white)
-- ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
-- ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
-- ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
+- ![Java](https://img.shields.io/badge/-Java-red?logo=java&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-003B57?logo=database&logoColor=white)![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white [JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
 
 #### 🔧 Frameworks and Tools
 - ![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js&logoColor=white)
