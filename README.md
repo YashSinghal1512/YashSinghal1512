@@ -3,6 +3,8 @@
   <a href="https://github.com/YOUR_GITHUB_USERNAME/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;MERN+Stack+Developer;Aspiring+Software+Engineer&center=true&width=500&height=50"></a>
 </p>
 
+<p align="center" ><img src="https://i.gifer.com/origin/60/606dc4f509be21ae620b538570dc1417_w200.gif" alt=""/></p>
+
 ### 👨‍🎓 About Me
 
 
